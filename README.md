@@ -1,12 +1,12 @@
 # Pulse dataset
 
-| Data Set Characteristics  |      Number of Instances   | Area | Attrubute Characteristics | Number of attributes | Associated Tasks | Missing Values? |
-|----------|:-------------:|------:| ------:| ------:|------:|------:|
-| Multivariate |  300 | Health | Real | 3 | Regression | No|
+| Data Set Characteristics | Number of Instances | Area | Attrubute Characteristics | Number of attributes | Associated Tasks | Missing Values? |
+|:------------------------:|:-------------------:|:----:|:-------------------------:|:--------------------:|:----------------:|:---------------:|
+| Multivariate             |  300                |Health| Real                      | 3                    | Regression       | No              |
 
 
-###Data Set Information:
+### Data Set Information:
 
-###Attribute Information:
+### Attribute Information:
 
-###The columns in this dataset are:
+### The columns in this dataset are:
